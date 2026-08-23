@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="WhatsInFood helps you explore the vitamins, minerals and macronutrients in common foods.">
+  <title>WhatsInFood — Food Nutrition Explorer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="WhatsInFood home">
+        <span class="brand-mark" aria-hidden="true">●</span>
+        <span>WhatsInFood</span>
+      </a>
+
+      <div class="global-search">
+        <label class="sr-only" for="food-search">Search for a food</label>
+        <input id="food-search" type="search" autocomplete="off"
+          placeholder="Search for a food..." aria-controls="search-suggestions">
+        <button type="button" class="search-icon" id="search-submit" aria-label="Search">⌕</button>
+        <div id="search-suggestions" class="search-suggestions" role="listbox"></div>
+      </div>
+
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="#food">Foods</a>
+        <a href="#compare">Compare</a>
+        <a href="#meal-builder" class="future-link">Meal Builder</a>
+        <a href="#articles" class="future-link">Articles</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="breadcrumb" id="breadcrumb">Home <span>›</span> Foods</div>
+      <div class="hero-heading">
+        <div>
+          <h1 id="page-title">Explore food nutrition</h1>
+          <p class="hero-subtitle">Search a food to see its vitamins, minerals and macronutrients per 100g.</p>
+        </div>
+        <div class="source-pill">USDA FoodData Central</div>
+      </div>
+
+      <div id="category-chips" class="category-chips" aria-label="Browse food categories"></div>
+    </section>
+
+    <section id="food" class="food-profile" aria-live="polite">
+      <div class="empty-state">
+        <div class="empty-icon">⌕</div>
+        <h2>Search for a food</h2>
+        <p>Try egg, chicken, salmon, spinach, lentils or another food from your database.</p>
+      </div>
+    </section>
+
+    <section id="about" class="site-information">
+      <div>
+        <p class="eyebrow">ABOUT WHATSINFOOD</p>
+        <h2>A clearer way to understand food nutrients.</h2>
+      </div>
+      <p>WhatsInFood presents nutrient information from USDA FoodData Central in a simple, searchable format. Nutrient roles are summarised from authoritative reference material and are intended for general nutrition education, not medical advice.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>WhatsInFood</strong>
+      <span>Food nutrition reference</span>
+    </div>
+    <span>Source: USDA FoodData Central, current as of 23 August 2026. Nutrient roles summarised from NIH Office of Dietary Supplements fact sheets.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
