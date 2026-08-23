@@ -610,7 +610,7 @@ function renderProfile(food) {
           </div>
 
           <div class="macro-wrap">
-            <div class="section-heading"><h3>Macro breakdown</h3><span>calories</span></div>
+            <div class="section-heading"><h3>Macro breakdown</h3><span>% of calories</span></div>
             <div class="macro-bar" aria-label="Macro breakdown">
               <div class="macro-segment protein" style="width:${macro.protein}%"></div>
               <div class="macro-segment carb" style="width:${macro.carbs}%"></div>
