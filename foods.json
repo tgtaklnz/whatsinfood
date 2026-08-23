@@ -2562,5 +2562,629 @@
       }
     ],
     "fdcId": null
+  },
+  {
+    "id": "duck",
+    "name": "Duck breast, meat only, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 breast fillet (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 132,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 6.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 2.7,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Niacin",
+        "amount": 5.3,
+        "unit": "mg",
+        "context": "Helps convert food into energy."
+      }
+    ]
+  },
+  {
+    "id": "goose",
+    "name": "Goose, meat only, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 breast fillet (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 161,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 7.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 2.7,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Niacin",
+        "amount": 4.2,
+        "unit": "mg",
+        "context": "Helps convert food into energy."
+      }
+    ]
+  },
+  {
+    "id": "ostrich",
+    "name": "Ostrich, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 111,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.3,
+        "unit": "mcg",
+        "context": "Needed for nerve function and forming red blood cells."
+      },
+      {
+        "name": "Iron",
+        "amount": 3.3,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      }
+    ]
+  },
+  {
+    "id": "quail",
+    "name": "Quail, meat only, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 whole quail (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 134,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 4.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 4.5,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Niacin",
+        "amount": 6.7,
+        "unit": "mg",
+        "context": "Helps convert food into energy."
+      }
+    ]
+  },
+  {
+    "id": "lamb",
+    "name": "Lamb, average cut, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 chop (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 258,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 16.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 21.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.7,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 2.1,
+        "unit": "mcg",
+        "context": "Needed for nerve function and forming red blood cells."
+      }
+    ]
+  },
+  {
+    "id": "pork",
+    "name": "Pork loin, lean, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 chop (150g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 143,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 5.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Thiamin",
+        "amount": 0.8,
+        "unit": "mg",
+        "context": "Helps convert food into energy."
+      },
+      {
+        "name": "Selenium",
+        "amount": 34,
+        "unit": "mcg",
+        "context": "Acts as an antioxidant and supports thyroid function."
+      }
+    ]
+  },
+  {
+    "id": "veal",
+    "name": "Veal, lean, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 cutlet (120g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 109,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.0,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.4,
+        "unit": "mcg",
+        "context": "Needed for nerve function and forming red blood cells."
+      }
+    ]
+  },
+  {
+    "id": "venison",
+    "name": "Venison, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 120,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 3.4,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.0,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      }
+    ]
+  },
+  {
+    "id": "bison",
+    "name": "Bison, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 109,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 2.6,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.4,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      }
+    ]
+  },
+  {
+    "id": "elk",
+    "name": "Elk, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 111,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 3.3,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.3,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      }
+    ]
+  },
+  {
+    "id": "goat",
+    "name": "Goat, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 109,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 3.0,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.3,
+        "unit": "mcg",
+        "context": "Needed for nerve function and forming red blood cells."
+      }
+    ]
+  },
+  {
+    "id": "kangaroo",
+    "name": "Kangaroo, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (150g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 98,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 3.2,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.7,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      }
+    ]
+  },
+  {
+    "id": "wild-boar",
+    "name": "Wild boar, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 122,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 3.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 1.8,
+        "unit": "mg",
+        "context": "Needed to carry oxygen in the blood."
+      },
+      {
+        "name": "Zinc",
+        "amount": 2.8,
+        "unit": "mg",
+        "context": "Supports immune function and wound healing."
+      }
+    ]
   }
 ]
