@@ -104,6 +104,22 @@ function getCategory(food) {
   return food?.category ?? food?.group ?? food?.foodCategory ?? "Other";
 }
 
+const CATEGORY_COLORS = {
+  "vegetable": "#4caf50",
+  "fruit": "#e67e22",
+  "grains": "#c68642",
+  "legumes": "#daa520",
+  "nuts and seeds": "#a0522d",
+  "meat and poultry": "#d32f2f",
+  "seafood": "#1e88e5",
+  "dairy and eggs": "#ffc107",
+  "herbs and spices": "#8e44ad"
+};
+
+function categoryColor(category) {
+  return CATEGORY_COLORS[normaliseName(category)] || "#cad8ca";
+}
+
 function getAliases(food) {
   const aliases = food?.aliases ?? food?.alias ?? [];
   return Array.isArray(aliases) ? aliases : [];
@@ -289,7 +305,7 @@ function faqData(food) {
     },
     {
       q: `Does cooking change the nutrition of ${name}?`,
-      a: `Cooking can change the weight, water content and concentration of nutrients in food. NutriLook displays the specific food record selected, so raw and cooked records should be treated as separate foods where available.`
+      a: `Cooking can change the weight, water content and concentration of nutrients in food. WhatsInFood displays the specific food record selected, so raw and cooked records should be treated as separate foods where available.`
     },
     {
       q: `How much fibre does ${name} contain?`,
@@ -333,7 +349,7 @@ function renderCategories() {
     .concat(present.filter(c => !CATEGORY_ORDER.some(x => normaliseName(x) === normaliseName(c))));
 
   els.chips.innerHTML = categories.map(category =>
-    `<button class="category-chip" data-category="${esc(category)}">${esc(category)}</button>`
+    `<button class="category-chip" data-category="${esc(category)}" style="--chip-color:${categoryColor(category)}">${esc(category)}</button>`
   ).join("");
 
   els.chips.querySelectorAll(".category-chip").forEach(btn => {
@@ -660,7 +676,7 @@ function renderProfile(food) {
 
   els.search.value = name;
   els.suggestions.classList.remove("open");
-  document.title = `${name} Nutrition Facts | NutriLook`;
+  document.title = `${name} Nutrition Facts | WhatsInFood`;
   document.getElementById("breadcrumb").innerHTML =
     `Home <span>›</span> ${esc(getCategory(food))} <span>›</span> ${esc(name)}`;
 }
