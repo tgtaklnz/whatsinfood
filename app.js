@@ -231,57 +231,6 @@ function generatedInsight(food) {
   return `${lead}${second}`;
 }
 
-function commonPreparation(food) {
-  const name = getFoodName(food).toLowerCase();
-  const category = getCategory(food).toLowerCase();
-
-  if (/chicken|turkey|beef|lamb|pork|meat/.test(name)) {
-    return [
-      ["Grilled", "A simple method that adds flavour through browning."],
-      ["Baked", "Convenient and easy to combine with vegetables."],
-      ["Stir-fried", "Works well sliced or diced with vegetables."],
-      ["Poached", "Gentle cooking method suitable for lean cuts."]
-    ];
-  }
-  if (/salmon|tuna|fish|cod|haddock|trout|seafood|prawn|shrimp/.test(name) || category.includes("seafood")) {
-    return [
-      ["Baked", "An easy method that works well with herbs and vegetables."],
-      ["Grilled", "Adds browning and flavour with little preparation."],
-      ["Pan-seared", "A quick method using a hot pan."],
-      ["Poached", "Gentle cooking that helps retain moisture."]
-    ];
-  }
-  if (/egg/.test(name) || category.includes("dairy")) {
-    return [
-      ["Boiled", "Simple preparation without requiring added cooking fat."],
-      ["Poached", "Gentle cooking method for a soft texture."],
-      ["Scrambled", "Can be combined with vegetables and herbs."],
-      ["Omelette", "Pairs naturally with vegetables and other protein foods."]
-    ];
-  }
-  if (/lentil|bean|pea|chickpea/.test(name) || category.includes("legume")) {
-    return [
-      ["Simmered", "Useful for soups, stews and grain bowls."],
-      ["Salad", "Works well chilled or at room temperature."],
-      ["Stewed", "Combines easily with vegetables and herbs."],
-      ["Soup", "A practical way to build a filling meal."]
-    ];
-  }
-  if (category.includes("vegetable")) {
-    return [
-      ["Steamed", "A simple method requiring little added fat."],
-      ["Roasted", "Brings out flavour through browning."],
-      ["Stir-fried", "Works well with other vegetables and protein foods."],
-      ["Raw", "Suitable for foods commonly eaten fresh."]
-    ];
-  }
-  return [
-    ["Fresh", "Suitable when the food is commonly eaten without cooking."],
-    ["Baked", "A versatile preparation for many foods."],
-    ["Cooked", "Can be incorporated into a balanced meal."],
-    ["With vegetables", "Pairing with vegetables adds variety to a meal."]
-  ];
-}
 
 function faqData(food) {
   const name = getFoodName(food);
@@ -480,6 +429,25 @@ function renderVitamins(food) {
   </section>`;
 }
 
+function renderWaysToEnjoy(food) {
+  const items = food?.waysToEnjoy;
+  if (!items || !items.length) return "";
+  return `<section class="card ways-to-enjoy">
+    <div class="section-heading"><h3>Ways to enjoy this food</h3></div>
+    <div class="ways-list">
+      ${items.map(item => `
+        <div class="ways-item">
+          <img class="ways-thumb" src="${esc(item.image)}" alt="${esc(item.category)}" loading="lazy" onerror="this.style.display='none';">
+          <div>
+            <strong>${esc(item.category)}</strong>
+            <span>${esc(item.blurb)}</span>
+          </div>
+        </div>
+      `).join("")}
+    </div>
+  </section>`;
+}
+
 function renderMinerals(food) {
   const minerals = getMineralList(food).slice(0, 12);
   return `<section class="card mineral-card">
@@ -498,22 +466,6 @@ function renderMinerals(food) {
       `).join("") : `<p class="muted">Mineral information is not available in this food record.</p>`}
       <small class="muted">% Daily Value is not calculated unless a suitable reference value is available.</small>
     </div>
-  </section>`;
-}
-
-function renderPreparation(food) {
-  const items = commonPreparation(food);
-  return `<section class="card section-card">
-    <div class="section-heading"><h3>Common preparation methods</h3></div>
-    <div class="prep-list">
-      ${items.map((item, i) => `
-        <div class="prep-item">
-          <div class="prep-icon">${["⌁","□","✣","◌"][i]}</div>
-          <div><strong>${esc(item[0])}</strong><span>${esc(item[1])}</span></div>
-        </div>
-      `).join("")}
-    </div>
-    <a class="text-link" href="#preparation">More preparation ideas →</a>
   </section>`;
 }
 
@@ -637,21 +589,19 @@ function renderProfile(food) {
               <span><i class="dot carb"></i>Carbohydrate ${macro.carbs}%</span>
               <span><i class="dot fat"></i>Fat ${macro.fat}%</span>
             </div>
-            <p class="macro-note">These percentages show each macronutrient's share of calories, not its share of the food's weight.</p>
+            <p class="macro-note">These percentages show each macronutrient's share of calories, not how much of the food's weight it makes up.</p>
           </div>
         </section>
 
         ${renderVitamins(food)}
 
-        <div class="lower-grid">
-          ${renderPreparation(food)}
-          ${renderSimilar(food)}
-        </div>
+        ${renderSimilar(food)}
 
         ${renderFaq(food)}
       </div>
 
       <aside class="right-column">
+        ${renderWaysToEnjoy(food)}
         ${renderMinerals(food)}
         ${renderCharacteristics(food)}
         ${renderSource(food)}
