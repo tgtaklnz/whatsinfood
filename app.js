@@ -432,19 +432,34 @@ function renderVitamins(food) {
 function renderWaysToEnjoy(food) {
   const items = food?.waysToEnjoy;
   if (!items || !items.length) return "";
+
+  const VISIBLE_LIMIT = 10;
+  const visible = items.slice(0, VISIBLE_LIMIT);
+  const hidden = items.slice(VISIBLE_LIMIT);
+
+  const renderItem = item => `
+    <div class="ways-item">
+      <img class="ways-thumb" src="${esc(item.image)}" alt="${esc(item.category)}" loading="lazy" onerror="this.style.display='none';">
+      <div>
+        <strong>${esc(item.category)}</strong>
+        <span>${esc(item.blurb)}</span>
+      </div>
+    </div>
+  `;
+
+  const hiddenBlock = hidden.length ? `
+    <div class="ways-list ways-list-extra" id="ways-extra-${esc(food.id)}" style="display:none;">
+      ${hidden.map(renderItem).join("")}
+    </div>
+    <button type="button" class="text-link ways-show-more" onclick="document.getElementById('ways-extra-${esc(food.id)}').style.display='flex'; this.style.display='none';">Show ${hidden.length} more →</button>
+  ` : "";
+
   return `<section class="card ways-to-enjoy">
     <div class="section-heading"><h3>Ways to enjoy this food</h3></div>
     <div class="ways-list">
-      ${items.map(item => `
-        <div class="ways-item">
-          <img class="ways-thumb" src="${esc(item.image)}" alt="${esc(item.category)}" loading="lazy" onerror="this.style.display='none';">
-          <div>
-            <strong>${esc(item.category)}</strong>
-            <span>${esc(item.blurb)}</span>
-          </div>
-        </div>
-      `).join("")}
+      ${visible.map(renderItem).join("")}
     </div>
+    ${hiddenBlock}
   </section>`;
 }
 
