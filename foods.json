@@ -68,14 +68,34 @@
     "image": "https://images.pexels.com/photos/7195272/pexels-photo-7195272.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+      },
+      {
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "A staple ingredient in fresh, raw salads."
       },
       {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "Blends well into green smoothies without overpowering the flavour."
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Softens beautifully into curries and one-pot dishes."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds colour and texture to noodle and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds colour and crunch to rice and grain bowls."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -83,9 +103,14 @@
         "blurb": "Cooks quickly, adding colour and texture to a stir fry."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Keeps its nutrients and texture when steamed or boiled."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "Blends well into green smoothies without overpowering the flavour."
       }
     ]
   },
@@ -151,14 +176,24 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+      },
+      {
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "A staple ingredient in fresh, raw salads."
       },
       {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "Blends well into green smoothies without overpowering the flavour."
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds colour and crunch to rice and grain bowls."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -166,9 +201,9 @@
         "blurb": "Cooks quickly, adding colour and texture to a stir fry."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "Blends well into green smoothies without overpowering the flavour."
       }
     ]
   },
@@ -314,9 +349,19 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "Develops a deeper flavour when roasted or baked."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "A staple ingredient in fresh, raw salads."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds colour and texture to noodle and pasta dishes."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -324,14 +369,14 @@
         "blurb": "Cooks quickly, adding colour and texture to a stir fry."
       },
       {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Develops a deeper flavour when roasted or baked."
+      },
+      {
         "category": "Boiled, Steamed & Poached",
         "image": "images/use-boiled-steamed-poached.jpg",
         "blurb": "Keeps its nutrients and texture when steamed or boiled."
-      },
-      {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "A staple ingredient in fresh, raw salads."
       }
     ]
   },
@@ -398,6 +443,16 @@
     "image": "https://images.pexels.com/photos/5945848/pexels-photo-5945848.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
     "waysToEnjoy": [
       {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Works well baked into desserts or warm dishes."
+      },
+      {
         "category": "Smoothies & Drinks",
         "image": "images/use-smoothies.jpg",
         "blurb": "A popular ingredient for fresh, blended smoothies."
@@ -411,11 +466,6 @@
         "category": "Snacks & Small Bites",
         "image": "images/use-snacks-small-bites.jpg",
         "blurb": "A simple, satisfying snack eaten on its own."
-      },
-      {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
       }
     ]
   },
@@ -475,9 +525,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
       },
       {
         "category": "Smoothies & Drinks",
@@ -552,9 +602,14 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A simple, satisfying snack eaten on its own."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Works well baked into desserts or warm dishes."
       },
       {
         "category": "Smoothies & Drinks",
@@ -567,9 +622,9 @@
         "blurb": "A popular addition to cakes, muffins, and baked desserts."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
       }
     ]
   },
@@ -638,14 +693,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Dips, Spreads & Sauces",
-        "image": "images/use-dips-spreads-sauces.jpg",
-        "blurb": "Blended or mashed into dips, spreads, and sauces."
-      },
-      {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds a creamy, rich texture to fresh salads."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Blends into chilled soups for a creamy, savoury twist."
       },
       {
         "category": "Wraps & Hand-held",
@@ -653,9 +703,24 @@
         "blurb": "Adds a creamy, rich texture to wraps and burritos."
       },
       {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds a creamy, rich texture to fresh fruit salads."
+      },
+      {
         "category": "Rice & Grain Bowls",
         "image": "images/use-rice-grain-bowls.jpg",
         "blurb": "Adds creaminess to rice and grain bowls."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or mashed into dips, spreads, and sauces."
       }
     ]
   },
@@ -718,14 +783,24 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A popular snack on its own or mixed into trail mix."
-      },
-      {
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A common smoothie add-in for extra nutrition and texture."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into nut butters, dips, and sauces."
       },
       {
         "category": "Baking & Desserts",
@@ -733,9 +808,9 @@
         "blurb": "Adds texture and flavour to cakes and baked goods."
       },
       {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "A common smoothie add-in for extra nutrition and texture."
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
       }
     ]
   },
@@ -801,6 +876,31 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
         "category": "Grilled & Barbecued",
         "image": "images/use-grilled-barbecued.jpg",
         "blurb": "A simple method that adds flavour through browning."
@@ -811,14 +911,9 @@
         "blurb": "A reliable choice for roasting or baking as a main."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds protein to keep salads satisfying and balanced."
-      },
-      {
-        "category": "Wraps & Hand-held",
-        "image": "images/use-handheld.jpg",
-        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
       }
     ]
   },
@@ -887,9 +982,29 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Boiled, Steamed & Poached",
-        "image": "images/use-boiled-steamed-poached.jpg",
-        "blurb": "Cooks gently by boiling, steaming, or poaching."
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -897,14 +1012,14 @@
         "blurb": "Cooks quickly in a stir fry alongside vegetables."
       },
       {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      },
+      {
         "category": "Baking & Desserts",
         "image": "images/use-baking-desserts.jpg",
         "blurb": "An essential binding ingredient in baking."
-      },
-      {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds protein to keep salads satisfying and balanced."
       }
     ]
   },
@@ -1040,6 +1155,41 @@
     "fdcId": 171077,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
         "category": "Grilled & Barbecued",
         "image": "images/use-grilled-barbecued.jpg",
         "blurb": "A simple method that adds flavour through browning."
@@ -1050,14 +1200,9 @@
         "blurb": "A reliable choice for roasting or baking as a main."
       },
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Cooks quickly in a stir fry alongside vegetables."
-      },
-      {
-        "category": "Curries & One-pot Meals",
-        "image": "images/use-curries.jpg",
-        "blurb": "Works well in coconut, tomato, and spice-based curries."
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
       }
     ]
   },
@@ -1195,6 +1340,21 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Helps thicken and bulk out soups and stews."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Forms the base or filling for wraps, burritos, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds bulk and texture to grain-based salads."
+      },
+      {
         "category": "Rice & Grain Bowls",
         "image": "images/use-rice-grain-bowls.jpg",
         "blurb": "The base for a satisfying rice or grain bowl."
@@ -1205,14 +1365,9 @@
         "blurb": "Stir-fried into a quick, flavourful rice or noodle dish."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds bulk and texture to grain-based salads."
-      },
-      {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Helps thicken and bulk out soups and stews."
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Boiled or steamed as the simplest way to cook it."
       }
     ]
   },
@@ -1266,9 +1421,19 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A simple, satisfying snack eaten on its own."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Works well baked into desserts or warm dishes."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
       },
       {
         "category": "Baking & Desserts",
@@ -1276,14 +1441,9 @@
         "blurb": "A popular addition to cakes, muffins, and baked desserts."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
-      },
-      {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "A popular ingredient for fresh, blended smoothies."
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
       }
     ]
   },
@@ -1337,9 +1497,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
       },
       {
         "category": "Smoothies & Drinks",
@@ -1408,24 +1568,39 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "A popular ingredient for fresh, blended smoothies."
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds natural sweetness to wraps and hand-held rolls."
       },
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A simple, satisfying snack eaten on its own."
-      },
-      {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
       },
       {
         "category": "Curries & One-pot Meals",
         "image": "images/use-curries.jpg",
         "blurb": "Adds sweetness and depth to fruit-based curries."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Adds a sweet contrast to savoury stir fries."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or mashed into dips, spreads, and sauces."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
       }
     ]
   },
@@ -1479,14 +1654,24 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A simple, satisfying snack eaten on its own."
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds natural sweetness to wraps and hand-held rolls."
       },
       {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "A popular ingredient for fresh, blended smoothies."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Adds sweetness and depth to fruit-based curries."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Adds a sweet contrast to savoury stir fries."
       },
       {
         "category": "Grilled & Barbecued",
@@ -1494,9 +1679,19 @@
         "blurb": "Caramelises well on the grill or barbecue."
       },
       {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
         "category": "Baking & Desserts",
         "image": "images/use-baking-desserts.jpg",
         "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
       }
     ]
   },
@@ -1550,9 +1745,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
       },
       {
         "category": "Smoothies & Drinks",
@@ -1619,9 +1814,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds natural sweetness to fresh salads."
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
       },
       {
         "category": "Smoothies & Drinks",
@@ -1688,9 +1883,14 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A crunchy, simple snack on its own."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
       },
       {
         "category": "Salads",
@@ -1698,14 +1898,34 @@
         "blurb": "A staple ingredient in fresh, raw salads."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds colour and crunch to rice and grain bowls."
       },
       {
         "category": "Stir Fries & Sautéed",
         "image": "images/use-stir-fry.jpg",
         "blurb": "Cooks quickly, adding colour and texture to a stir fry."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Keeps its nutrients and texture when steamed or boiled."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "Blends well into green smoothies without overpowering the flavour."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Ferments or pickles well for a tangy, preserved side."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A crunchy, simple snack on its own."
       }
     ]
   },
@@ -1762,11 +1982,6 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "A staple ingredient in fresh, raw salads."
-      },
-      {
         "category": "Soups & Casseroles",
         "image": "images/use-soups-casseroles.jpg",
         "blurb": "Adds body and flavour to soups, stews, and casseroles."
@@ -1777,9 +1992,24 @@
         "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
       },
       {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "A staple ingredient in fresh, raw salads."
+      },
+      {
         "category": "Curries & One-pot Meals",
         "image": "images/use-curries.jpg",
         "blurb": "Softens beautifully into curries and one-pot dishes."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds colour and texture to noodle and pasta dishes."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "A base ingredient for sauces, salsas, and dips."
       }
     ]
   },
@@ -1833,14 +2063,24 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+      },
+      {
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "A staple ingredient in fresh, raw salads."
       },
       {
-        "category": "Wraps & Hand-held",
-        "image": "images/use-handheld.jpg",
-        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds colour and crunch to rice and grain bowls."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "Blends well into green smoothies without overpowering the flavour."
       },
       {
         "category": "Pickled, Fermented & Preserved",
@@ -1904,9 +2144,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "Develops a deeper flavour when roasted or baked."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
       },
       {
         "category": "Curries & One-pot Meals",
@@ -1919,9 +2159,19 @@
         "blurb": "Cooks quickly, adding colour and texture to a stir fry."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "Chars beautifully on the grill or barbecue."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Develops a deeper flavour when roasted or baked."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Keeps its nutrients and texture when steamed or boiled."
       }
     ]
   },
@@ -1980,9 +2230,14 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Cooks quickly, adding colour and texture to a stir fry."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
       },
       {
         "category": "Salads",
@@ -1990,14 +2245,39 @@
         "blurb": "A staple ingredient in fresh, raw salads."
       },
       {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Softens beautifully into curries and one-pot dishes."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds colour and texture to noodle and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds colour and crunch to rice and grain bowls."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly, adding colour and texture to a stir fry."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "Chars beautifully on the grill or barbecue."
+      },
+      {
         "category": "Roasted & Baked",
         "image": "images/use-roasted-baked.jpg",
         "blurb": "Develops a deeper flavour when roasted or baked."
       },
       {
-        "category": "Wraps & Hand-held",
-        "image": "images/use-handheld.jpg",
-        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Ferments or pickles well for a tangy, preserved side."
       }
     ]
   },
@@ -2050,9 +2330,14 @@
         "blurb": "Adds body and flavour to soups, stews, and casseroles."
       },
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Cooks quickly, adding colour and texture to a stir fry."
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "A staple ingredient in fresh, raw salads."
       },
       {
         "category": "Curries & One-pot Meals",
@@ -2060,9 +2345,29 @@
         "blurb": "Softens beautifully into curries and one-pot dishes."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "A staple ingredient in fresh, raw salads."
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds colour and texture to noodle and pasta dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly, adding colour and texture to a stir fry."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "Chars beautifully on the grill or barbecue."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Develops a deeper flavour when roasted or baked."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Ferments or pickles well for a tangy, preserved side."
       }
     ]
   },
@@ -2121,19 +2426,34 @@
         "blurb": "Adds body and flavour to soups, stews, and casseroles."
       },
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Cooks quickly, adding colour and texture to a stir fry."
-      },
-      {
         "category": "Curries & One-pot Meals",
         "image": "images/use-curries.jpg",
         "blurb": "Softens beautifully into curries and one-pot dishes."
       },
       {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds colour and texture to noodle and pasta dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly, adding colour and texture to a stir fry."
+      },
+      {
         "category": "Roasted & Baked",
         "image": "images/use-roasted-baked.jpg",
         "blurb": "Develops a deeper flavour when roasted or baked."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "A base ingredient for sauces, salsas, and dips."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Ferments or pickles well for a tangy, preserved side."
       }
     ]
   },
@@ -2190,11 +2510,6 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "Develops a deeper flavour when roasted or baked."
-      },
-      {
         "category": "Soups & Casseroles",
         "image": "images/use-soups-casseroles.jpg",
         "blurb": "Adds body and flavour to soups, stews, and casseroles."
@@ -2203,6 +2518,16 @@
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "A staple ingredient in fresh, raw salads."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Softens beautifully into curries and one-pot dishes."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Develops a deeper flavour when roasted or baked."
       },
       {
         "category": "Boiled, Steamed & Poached",
@@ -2261,14 +2586,19 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Adds crunch and freshness to wraps and hand-held rolls."
+      },
+      {
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "A staple ingredient in fresh, raw salads."
-      },
-      {
-        "category": "Pickled, Fermented & Preserved",
-        "image": "images/use-pickled-fermented-preserved.jpg",
-        "blurb": "Ferments or pickles well for a tangy, preserved side."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -2276,9 +2606,24 @@
         "blurb": "Cooks quickly, adding colour and texture to a stir fry."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Adds body and flavour to soups, stews, and casseroles."
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "Chars beautifully on the grill or barbecue."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Develops a deeper flavour when roasted or baked."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Keeps its nutrients and texture when steamed or boiled."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Ferments or pickles well for a tangy, preserved side."
       }
     ]
   },
@@ -2402,9 +2747,14 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Rice & Grain Bowls",
-        "image": "images/use-rice-grain-bowls.jpg",
-        "blurb": "The base for a satisfying rice or grain bowl."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Helps thicken and bulk out soups and stews."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Forms the base or filling for wraps, burritos, and rolls."
       },
       {
         "category": "Salads",
@@ -2412,14 +2762,14 @@
         "blurb": "Adds bulk and texture to grain-based salads."
       },
       {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "The base for a satisfying rice or grain bowl."
+      },
+      {
         "category": "Boiled, Steamed & Poached",
         "image": "images/use-boiled-steamed-poached.jpg",
         "blurb": "Boiled or steamed as the simplest way to cook it."
-      },
-      {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "Helps thicken and bulk out soups and stews."
       }
     ]
   },
@@ -2535,6 +2885,21 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Helps thicken and bulk out soups and stews."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "Forms the base or filling for wraps, burritos, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds bulk and texture to grain-based salads."
+      },
+      {
         "category": "Rice & Grain Bowls",
         "image": "images/use-rice-grain-bowls.jpg",
         "blurb": "The base for a satisfying rice or grain bowl."
@@ -2548,11 +2913,6 @@
         "category": "Boiled, Steamed & Poached",
         "image": "images/use-boiled-steamed-poached.jpg",
         "blurb": "Boiled or steamed as the simplest way to cook it."
-      },
-      {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds bulk and texture to grain-based salads."
       }
     ]
   },
@@ -2610,19 +2970,39 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Curries & One-pot Meals",
-        "image": "images/use-curries.jpg",
-        "blurb": "A staple in dals, curries, and one-pot meals."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "A hearty, protein-rich base for soups and stews."
       },
       {
-        "category": "Dips, Spreads & Sauces",
-        "image": "images/use-dips-spreads-sauces.jpg",
-        "blurb": "Blended into hummus, dips, and spreads."
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A hearty, plant-based filling for wraps and burritos."
       },
       {
         "category": "Salads",
         "image": "images/use-salads.jpg",
         "blurb": "Adds substance and plant-based protein to salads."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A staple in dals, curries, and one-pot meals."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds plant-based protein to rice and grain bowls."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Roasts well for a crisp, snackable texture."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into hummus, dips, and spreads."
       },
       {
         "category": "Snacks & Small Bites",
@@ -2681,6 +3061,11 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "A hearty, protein-rich base for soups and stews."
+      },
+      {
         "category": "Wraps & Hand-held",
         "image": "images/use-handheld.jpg",
         "blurb": "A hearty, plant-based filling for wraps and burritos."
@@ -2691,14 +3076,14 @@
         "blurb": "Adds substance and plant-based protein to salads."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "A hearty, protein-rich base for soups and stews."
-      },
-      {
         "category": "Rice & Grain Bowls",
         "image": "images/use-rice-grain-bowls.jpg",
         "blurb": "Adds plant-based protein to rice and grain bowls."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into hummus, dips, and spreads."
       }
     ]
   },
@@ -2755,9 +3140,19 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Holds its shape well when stir-fried with vegetables and sauce."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "A hearty, protein-rich base for soups and stews."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A hearty, plant-based filling for wraps and burritos."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds substance and plant-based protein to salads."
       },
       {
         "category": "Curries & One-pot Meals",
@@ -2765,14 +3160,34 @@
         "blurb": "A staple in dals, curries, and one-pot meals."
       },
       {
-        "category": "Soups & Casseroles",
-        "image": "images/use-soups-casseroles.jpg",
-        "blurb": "A hearty, protein-rich base for soups and stews."
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds protein to noodle and pasta dishes without overpowering other flavours."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds substance and plant-based protein to salads."
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Adds plant-based protein to rice and grain bowls."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Holds its shape well when stir-fried with vegetables and sauce."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "Firm varieties hold up well on the grill or barbecue."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Becomes firm and crisp when roasted or baked."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "Adds a creamy, protein-rich base to blended smoothies."
       }
     ]
   },
@@ -2897,9 +3312,14 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A popular snack on its own or mixed into trail mix."
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Adds crunch and richness to noodle dishes."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -2907,14 +3327,24 @@
         "blurb": "Adds crunch to stir fries."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds crunch and healthy fats as a salad topping."
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
       },
       {
         "category": "Smoothies & Drinks",
         "image": "images/use-smoothies.jpg",
         "blurb": "A common smoothie add-in for extra nutrition and texture."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into nut butters, dips, and sauces."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
       }
     ]
   },
@@ -3042,9 +3472,19 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
         "category": "Wraps & Hand-held",
         "image": "images/use-handheld.jpg",
         "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
       },
       {
         "category": "Curries & One-pot Meals",
@@ -3052,9 +3492,24 @@
         "blurb": "Works well in coconut, tomato, and spice-based curries."
       },
       {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
         "category": "Stir Fries & Sautéed",
         "image": "images/use-stir-fry.jpg",
         "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
       },
       {
         "category": "Roasted & Baked",
@@ -3116,9 +3571,9 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "A reliable choice for roasting or baking as a main."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
       },
       {
         "category": "Wraps & Hand-held",
@@ -3126,14 +3581,29 @@
         "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
       },
       {
-        "category": "Grilled & Barbecued",
-        "image": "images/use-grilled-barbecued.jpg",
-        "blurb": "A simple method that adds flavour through browning."
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
       },
       {
         "category": "Stir Fries & Sautéed",
         "image": "images/use-stir-fry.jpg",
         "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
@@ -3200,14 +3670,19 @@
         "blurb": "Adds protein to keep salads satisfying and balanced."
       },
       {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
         "category": "Grilled & Barbecued",
         "image": "images/use-grilled-barbecued.jpg",
         "blurb": "A simple method that adds flavour through browning."
       },
       {
-        "category": "Noodles & Pasta",
-        "image": "images/use-noodles-pasta.jpg",
-        "blurb": "Pairs well with noodles and pasta dishes."
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
@@ -3264,6 +3739,36 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
         "category": "Stir Fries & Sautéed",
         "image": "images/use-stir-fry.jpg",
         "blurb": "Cooks quickly in a stir fry alongside vegetables."
@@ -3274,14 +3779,14 @@
         "blurb": "A simple method that adds flavour through browning."
       },
       {
-        "category": "Curries & One-pot Meals",
-        "image": "images/use-curries.jpg",
-        "blurb": "Works well in coconut, tomato, and spice-based curries."
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       },
       {
-        "category": "Salads",
-        "image": "images/use-salads.jpg",
-        "blurb": "Adds protein to keep salads satisfying and balanced."
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
       }
     ]
   },
@@ -3339,16 +3844,6 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Smoothies & Drinks",
-        "image": "images/use-smoothies.jpg",
-        "blurb": "Adds creaminess and protein to blended smoothies."
-      },
-      {
-        "category": "Baking & Desserts",
-        "image": "images/use-baking-desserts.jpg",
-        "blurb": "An essential ingredient in most baking recipes."
-      },
-      {
         "category": "Soups & Casseroles",
         "image": "images/use-soups-casseroles.jpg",
         "blurb": "Adds richness and body to creamy soups and sauces."
@@ -3357,6 +3852,21 @@
         "category": "Noodles & Pasta",
         "image": "images/use-noodles-pasta.jpg",
         "blurb": "Adds creaminess to pasta sauces and bakes."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A common ingredient in baking and creamy baked dishes."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "Adds creaminess and protein to blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "An essential ingredient in most baking recipes."
       }
     ]
   },
@@ -3413,14 +3923,14 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds richness and body to creamy soups and sauces."
+      },
+      {
         "category": "Wraps & Hand-held",
         "image": "images/use-handheld.jpg",
         "blurb": "Adds creaminess to sandwiches and wraps."
-      },
-      {
-        "category": "Snacks & Small Bites",
-        "image": "images/use-snacks-small-bites.jpg",
-        "blurb": "A satisfying snack on its own or on a cheese board."
       },
       {
         "category": "Salads",
@@ -3431,6 +3941,21 @@
         "category": "Noodles & Pasta",
         "image": "images/use-noodles-pasta.jpg",
         "blurb": "Adds creaminess to pasta sauces and bakes."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A common ingredient in baking and creamy baked dishes."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "A creamy base for dips, spreads, and sauces."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A satisfying snack on its own or on a cheese board."
       }
     ]
   },
@@ -3487,14 +4012,24 @@
     "fdcId": null,
     "waysToEnjoy": [
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
       },
       {
         "category": "Curries & One-pot Meals",
         "image": "images/use-curries.jpg",
         "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
       },
       {
         "category": "Smoothies & Drinks",
@@ -3628,9 +4163,9 @@
     ],
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "A reliable choice for roasting or baking as a main."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
       },
       {
         "category": "Wraps & Hand-held",
@@ -3638,14 +4173,29 @@
         "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
       },
       {
-        "category": "Grilled & Barbecued",
-        "image": "images/use-grilled-barbecued.jpg",
-        "blurb": "A simple method that adds flavour through browning."
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
       },
       {
         "category": "Curries & One-pot Meals",
         "image": "images/use-curries.jpg",
         "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
@@ -3883,9 +4433,19 @@
     ],
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "A reliable choice for roasting or baking as a main."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
       },
       {
         "category": "Curries & One-pot Meals",
@@ -3893,14 +4453,19 @@
         "blurb": "Works well in coconut, tomato, and spice-based curries."
       },
       {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
         "category": "Grilled & Barbecued",
         "image": "images/use-grilled-barbecued.jpg",
         "blurb": "A simple method that adds flavour through browning."
       },
       {
-        "category": "Wraps & Hand-held",
-        "image": "images/use-handheld.jpg",
-        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
@@ -3953,14 +4518,9 @@
     ],
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "A reliable choice for roasting or baking as a main."
-      },
-      {
-        "category": "Grilled & Barbecued",
-        "image": "images/use-grilled-barbecued.jpg",
-        "blurb": "A simple method that adds flavour through browning."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
       },
       {
         "category": "Wraps & Hand-held",
@@ -3968,9 +4528,34 @@
         "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
       },
       {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
         "category": "Stir Fries & Sautéed",
         "image": "images/use-stir-fry.jpg",
         "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
@@ -4088,14 +4673,14 @@
     ],
     "waysToEnjoy": [
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "A reliable choice for roasting or baking as a main."
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
       },
       {
-        "category": "Grilled & Barbecued",
-        "image": "images/use-grilled-barbecued.jpg",
-        "blurb": "A simple method that adds flavour through browning."
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
       },
       {
         "category": "Stir Fries & Sautéed",
@@ -4103,9 +4688,14 @@
         "blurb": "Cooks quickly in a stir fry alongside vegetables."
       },
       {
-        "category": "Curries & One-pot Meals",
-        "image": "images/use-curries.jpg",
-        "blurb": "Works well in coconut, tomato, and spice-based curries."
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
@@ -4158,6 +4748,26 @@
     ],
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
         "category": "Grilled & Barbecued",
         "image": "images/use-grilled-barbecued.jpg",
         "blurb": "A simple method that adds flavour through browning."
@@ -4166,16 +4776,6 @@
         "category": "Roasted & Baked",
         "image": "images/use-roasted-baked.jpg",
         "blurb": "A reliable choice for roasting or baking as a main."
-      },
-      {
-        "category": "Wraps & Hand-held",
-        "image": "images/use-handheld.jpg",
-        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
-      },
-      {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Cooks quickly in a stir fry alongside vegetables."
       }
     ]
   },
@@ -4298,14 +4898,24 @@
     ],
     "waysToEnjoy": [
       {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
         "category": "Curries & One-pot Meals",
         "image": "images/use-curries.jpg",
         "blurb": "Works well in coconut, tomato, and spice-based curries."
       },
       {
-        "category": "Roasted & Baked",
-        "image": "images/use-roasted-baked.jpg",
-        "blurb": "A reliable choice for roasting or baking as a main."
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
       },
       {
         "category": "Grilled & Barbecued",
@@ -4313,9 +4923,9 @@
         "blurb": "A simple method that adds flavour through browning."
       },
       {
-        "category": "Stir Fries & Sautéed",
-        "image": "images/use-stir-fry.jpg",
-        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
   },
