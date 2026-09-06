@@ -7231,5 +7231,5135 @@
         "blurb": "A simple, satisfying snack eaten on its own."
       }
     ]
+  },
+  {
+    "id": "ribeye-steak",
+    "name": "Ribeye steak, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (227g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 291,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 19.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 24.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Zinc",
+        "amount": 4.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 2.0,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      }
+    ]
+  },
+  {
+    "id": "sirloin-steak",
+    "name": "Sirloin steak, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 steak (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 183,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 10.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 2.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "amount": 4.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      }
+    ]
+  },
+  {
+    "id": "beef-brisket",
+    "name": "Beef brisket, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 262,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 20.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Zinc",
+        "amount": 5.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 2.3,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      }
+    ]
+  },
+  {
+    "id": "beef-liver",
+    "name": "Beef liver, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 slice (85g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 135,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 3.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 3.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 4972,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 59.3,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      }
+    ]
+  },
+  {
+    "id": "ground-turkey",
+    "name": "Ground turkey, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (113g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 148,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 17.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 8.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 20,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B6",
+        "amount": 0.4,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "chicken-thigh",
+    "name": "Chicken thigh, skinless, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 thigh (110g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 119,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 4.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Niacin",
+        "amount": 5.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "amount": 1.9,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "chicken-drumstick",
+    "name": "Chicken drumstick, skinless, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 drumstick (110g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 114,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 3.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Niacin",
+        "amount": 4.6,
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "amount": 152,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "chicken-wing",
+    "name": "Chicken wing, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 wing (90g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 203,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 14.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Niacin",
+        "amount": 5.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 17,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "pork-belly",
+    "name": "Pork belly, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 518,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 9.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 53.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Thiamin",
+        "amount": 0.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 20,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "pork-chop",
+    "name": "Pork chop, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 chop (145g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 231,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 19.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 16.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Thiamin",
+        "amount": 0.7,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "amount": 0.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      }
+    ]
+  },
+  {
+    "id": "bacon",
+    "name": "Bacon, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "3 slices (34g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 541,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 12.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 54.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Sodium",
+        "amount": 1717,
+        "unit": "mg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 22,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      }
+    ]
+  },
+  {
+    "id": "ham",
+    "name": "Ham, sliced",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "3 slices (85g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 145,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 5.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Sodium",
+        "amount": 1203,
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamin",
+        "amount": 0.6,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo sausage, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 link (60g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 455,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 24.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 1.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 38.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Sodium",
+        "amount": 1235,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.5,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "A popular topping for rice and grain bowls."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      }
+    ]
+  },
+  {
+    "id": "rabbit",
+    "name": "Rabbit meat, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 114,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 6.7,
+        "unit": "mcg"
+      },
+      {
+        "name": "Phosphorus",
+        "amount": 200,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "pheasant",
+    "name": "Pheasant, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 181,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 23.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 9.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 1.3,
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin",
+        "amount": 10.9,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      }
+    ]
+  },
+  {
+    "id": "partridge",
+    "name": "Partridge, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 110,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 1.5,
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin",
+        "amount": 8.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      }
+    ]
+  },
+  {
+    "id": "guinea-fowl",
+    "name": "Guinea fowl, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 158,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 23.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 6.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Niacin",
+        "amount": 9.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 1.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      }
+    ]
+  },
+  {
+    "id": "buffalo-meat",
+    "name": "Buffalo meat, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (113g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 111,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 3.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "amount": 5.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      }
+    ]
+  },
+  {
+    "id": "emu",
+    "name": "Emu meat, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 124,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 22.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 3.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 3.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 2.3,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      }
+    ]
+  },
+  {
+    "id": "alligator",
+    "name": "Alligator meat, raw",
+    "category": "meat and poultry",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 110,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 21.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.5,
+        "unit": "mcg"
+      },
+      {
+        "name": "Phosphorus",
+        "amount": 175,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      }
+    ]
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (36g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 567,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 25.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 16.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 49.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 8.5,
+        "unit": "g"
+      },
+      {
+        "name": "Niacin",
+        "amount": 12.1,
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 168,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into nut butters, dips, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "pistachios",
+    "name": "Pistachios, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (30g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 560,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 27.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 45.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 10.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B6",
+        "amount": 1.7,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 1025,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "pecans",
+    "name": "Pecans, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (27g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 691,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 9.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 72.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 9.6,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 4.5,
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "amount": 1.2,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "macadamia-nuts",
+    "name": "Macadamia nuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (33g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 718,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 7.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 75.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 8.6,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 4.1,
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamin",
+        "amount": 1.2,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "hazelnuts",
+    "name": "Hazelnuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (34g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 628,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 15.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 16.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 60.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 9.7,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin E",
+        "amount": 15.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 6.2,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into nut butters, dips, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "brazil-nuts",
+    "name": "Brazil nuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (33g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 659,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 14.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 11.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 67.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 7.5,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 1917,
+        "unit": "mcg"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 376,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "pine-nuts",
+    "name": "Pine nuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (34g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 673,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 13.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 68.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.7,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 53.9,
+        "unit": "mcg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 8.8,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into nut butters, dips, and sauces."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "sunflower-seeds",
+    "name": "Sunflower seeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (35g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 584,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 20.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 51.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 8.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin E",
+        "amount": 35.2,
+        "unit": "mg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 53,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "pumpkin-seeds",
+    "name": "Pumpkin seeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (32g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 559,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 30.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 10.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 49.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 592,
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "amount": 7.6,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "sesame-seeds",
+    "name": "Sesame seeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "2 tbsp (18g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 573,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 17.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 23.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 49.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 11.8,
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "amount": 975,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 14.6,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended into nut butters, dips, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      }
+    ]
+  },
+  {
+    "id": "flaxseeds",
+    "name": "Flaxseeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "2 tbsp (22g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 534,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 28.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 42.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 27.3,
+        "unit": "g"
+      },
+      {
+        "name": "Thiamin",
+        "amount": 1.6,
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 392,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A common smoothie add-in for extra nutrition and texture."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      }
+    ]
+  },
+  {
+    "id": "hemp-seeds",
+    "name": "Hemp seeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "3 tbsp (30g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 553,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 31.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 8.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 48.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 700,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 7.9,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A common smoothie add-in for extra nutrition and texture."
+      }
+    ]
+  },
+  {
+    "id": "poppy-seeds",
+    "name": "Poppy seeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1 tbsp (9g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 525,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 28.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 41.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 19.5,
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "amount": 1438,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 6.9,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      }
+    ]
+  },
+  {
+    "id": "chestnuts",
+    "name": "Chestnuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1 cup (143g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 213,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 2.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 45.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 8.1,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 43,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 518,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "pili-nuts",
+    "name": "Pili nuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (30g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 702,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 10.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 5.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 75.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 240,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 3.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "tiger-nuts",
+    "name": "Tiger nuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (40g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 404,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 63.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 24.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 22.0,
+        "unit": "g"
+      },
+      {
+        "name": "Potassium",
+        "amount": 1215,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin E",
+        "amount": 4.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A common smoothie add-in for extra nutrition and texture."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "watermelon-seeds",
+    "name": "Watermelon seeds, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (32g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 557,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 28.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 15.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 47.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 515,
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "amount": 10.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "black-walnuts",
+    "name": "Black walnuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (30g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 618,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 24.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 9.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 59.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 6.5,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 3.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 190,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds crunch and healthy fats as a salad topping."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "Adds texture and flavour to cakes and baked goods."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A popular snack on its own or mixed into trail mix."
+      }
+    ]
+  },
+  {
+    "id": "acorns",
+    "name": "Acorns, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (30g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 387,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 6.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 40.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 23.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 8.7,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 1.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 539,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      }
+    ]
+  },
+  {
+    "id": "ginkgo-nuts",
+    "name": "Ginkgo nuts, raw",
+    "category": "nuts and seeds",
+    "per": "100g",
+    "householdServing": "1/4 cup (28g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 182,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 4.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 37.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 15,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 510,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Commonly roasted or used as a baking ingredient."
+      }
+    ]
+  },
+  {
+    "id": "cod",
+    "name": "Cod, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (180g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 82,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 17.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 0.9,
+        "unit": "mcg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 33,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "halibut",
+    "name": "Halibut, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (159g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 91,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 36.5,
+        "unit": "mcg"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 24,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "tilapia",
+    "name": "Tilapia, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (110g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 96,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 41.8,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.9,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      }
+    ]
+  },
+  {
+    "id": "trout",
+    "name": "Trout, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (150g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 148,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 6.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin D",
+        "amount": 9.3,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 4.5,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      }
+    ]
+  },
+  {
+    "id": "sardines",
+    "name": "Sardines, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 can (92g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 208,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 24.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 11.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "amount": 382,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin D",
+        "amount": 4.8,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "mackerel",
+    "name": "Mackerel, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 205,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 13.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 8.7,
+        "unit": "mcg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 44,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      }
+    ]
+  },
+  {
+    "id": "anchovies",
+    "name": "Anchovies, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "5 anchovies (20g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 131,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 4.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Niacin",
+        "amount": 14.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Calcium",
+        "amount": 147,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or reduced into sauces, pastes, and condiments."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Commonly pickled, cured, or fermented for extra flavour."
+      }
+    ]
+  },
+  {
+    "id": "herring",
+    "name": "Herring, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (143g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 158,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 9.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin D",
+        "amount": 3.5,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 13.7,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Commonly pickled, cured, or fermented for extra flavour."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "snapper",
+    "name": "Red snapper, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (159g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 100,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 20.5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 41.6,
+        "unit": "mcg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 444,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      }
+    ]
+  },
+  {
+    "id": "sea-bass",
+    "name": "Sea bass, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (159g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 97,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 36,
+        "unit": "mcg"
+      },
+      {
+        "name": "Phosphorus",
+        "amount": 210,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "crab",
+    "name": "Crab, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 cup (134g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 83,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 8.8,
+        "unit": "mcg"
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or reduced into sauces, pastes, and condiments."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Works well in coconut, tomato, and spice-based curries."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "lobster",
+    "name": "Lobster, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 tail (150g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 89,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 18.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Zinc",
+        "amount": 3.5,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.4,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      },
+      {
+        "category": "Wraps & Hand-held",
+        "image": "images/use-handheld.jpg",
+        "blurb": "A satisfying filling for wraps, sandwiches, and rolls."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      }
+    ]
+  },
+  {
+    "id": "scallops",
+    "name": "Scallops, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "3 oz (85g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 88,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 16.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 2.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.6,
+        "unit": "mcg"
+      },
+      {
+        "name": "Phosphorus",
+        "amount": 300,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      }
+    ]
+  },
+  {
+    "id": "mussels",
+    "name": "Mussels, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 cup (135g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 86,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 11.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 3.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 12.0,
+        "unit": "mcg"
+      },
+      {
+        "name": "Iron",
+        "amount": 4.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "oysters",
+    "name": "Oysters, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "6 oysters (84g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 68,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 7.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 3.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 2.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Zinc",
+        "amount": 39.3,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 15.7,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "Commonly pickled, cured, or fermented for extra flavour."
+      }
+    ]
+  },
+  {
+    "id": "clams",
+    "name": "Clams, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 cup (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 86,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 14.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 13.98,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 11.9,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      },
+      {
+        "category": "Noodles & Pasta",
+        "image": "images/use-noodles-pasta.jpg",
+        "blurb": "Pairs well with noodles and pasta dishes."
+      }
+    ]
+  },
+  {
+    "id": "squid",
+    "name": "Squid, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 cup (170g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 92,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 15.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 3.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.3,
+        "unit": "mcg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 44.8,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Cooks quickly in a stir fry alongside vegetables."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      }
+    ]
+  },
+  {
+    "id": "octopus",
+    "name": "Octopus, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 serving (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 82,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 14.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 2.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 20.0,
+        "unit": "mcg"
+      },
+      {
+        "name": "Iron",
+        "amount": 5.3,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds protein to keep salads satisfying and balanced."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Cooks gently by boiling, steaming, or poaching."
+      }
+    ]
+  },
+  {
+    "id": "catfish",
+    "name": "Catfish, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 fillet (140g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 105,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 16.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 3.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 2.4,
+        "unit": "mcg"
+      },
+      {
+        "name": "Selenium",
+        "amount": 12.6,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Simmers well in soups, stews, and casseroles."
+      }
+    ]
+  },
+  {
+    "id": "swordfish",
+    "name": "Swordfish, raw",
+    "category": "seafood",
+    "per": "100g",
+    "householdServing": "1 steak (159g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 121,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 19.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0,
+        "unit": "g"
+      },
+      {
+        "name": "Selenium",
+        "amount": 52.7,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "amount": 1.7,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A simple method that adds flavour through browning."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A reliable choice for roasting or baking as a main."
+      }
+    ]
+  },
+  {
+    "id": "basil",
+    "name": "Basil, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tbsp chopped (5g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 23,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 2.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 414.8,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 264,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+      }
+    ]
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tbsp chopped (6g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 44,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 8.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.2,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 493,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 25,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      }
+    ]
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tsp chopped (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 101,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 5.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 24.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 14.0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 160,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 17.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A classic seasoning for roasted meats and vegetables."
+      }
+    ]
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tsp chopped (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 131,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 20.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 5.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 14.1,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 6.7,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 146,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A classic seasoning for roasted meats and vegetables."
+      }
+    ]
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1/4 cup chopped (15g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 36,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 6.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 1640,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 133,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      }
+    ]
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro (coriander leaves), fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1/4 cup chopped (4g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 23,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 2.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 3.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.8,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 310,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 337,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+      }
+    ]
+  },
+  {
+    "id": "mint",
+    "name": "Mint, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tbsp chopped (3g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 70,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 14.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 212,
+        "unit": "mcg"
+      },
+      {
+        "name": "Iron",
+        "amount": 5.1,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular smoothie booster in small amounts."
+      }
+    ]
+  },
+  {
+    "id": "dill",
+    "name": "Dill, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tbsp chopped (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 43,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 7.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.1,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 85,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 386,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      },
+      {
+        "category": "Pickled, Fermented & Preserved",
+        "image": "images/use-pickled-fermented-preserved.jpg",
+        "blurb": "A classic partner for dill pickles and other pickled vegetables."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      }
+    ]
+  },
+  {
+    "id": "sage",
+    "name": "Sage, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tsp chopped (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 315,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 10.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 60.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 12.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 40.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 1714.5,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 295,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "A classic seasoning for roasted meats and vegetables."
+      }
+    ]
+  },
+  {
+    "id": "chives",
+    "name": "Chives, fresh",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 tbsp chopped (6g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 30,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 4.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.5,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 212.7,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 58.1,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      }
+    ]
+  },
+  {
+    "id": "cumin",
+    "name": "Cumin seeds, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 375,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 17.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 44.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 22.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 10.5,
+        "unit": "g"
+      },
+      {
+        "name": "Iron",
+        "amount": 66.4,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 3.3,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      }
+    ]
+  },
+  {
+    "id": "paprika",
+    "name": "Paprika, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 282,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 14.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 54.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 12.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 34.9,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 2185,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E",
+        "amount": 29.1,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+      },
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      }
+    ]
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2.6g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 247,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 80.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 53.1,
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "amount": 1002,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 17.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular smoothie booster in small amounts."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A warming spice used in baking and desserts."
+      }
+    ]
+  },
+  {
+    "id": "nutmeg",
+    "name": "Nutmeg, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2.2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 525,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 5.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 49.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 36.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 20.8,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 2.9,
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "amount": 1.02,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A warming spice used in baking and desserts."
+      }
+    ]
+  },
+  {
+    "id": "cardamom",
+    "name": "Cardamom, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 311,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 10.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 68.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 6.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 28.0,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 28.0,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 14.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular smoothie booster in small amounts."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A warming spice used in baking and desserts."
+      }
+    ]
+  },
+  {
+    "id": "cloves",
+    "name": "Cloves, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2.1g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 274,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 65.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 13.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 33.9,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 60.1,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 141.8,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A warming spice used in baking and desserts."
+      }
+    ]
+  },
+  {
+    "id": "black-pepper",
+    "name": "Black pepper, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2.3g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 251,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 10.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 63.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 3.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 25.3,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 1.16,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 9.7,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      },
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Adds a fresh, aromatic lift to salad dressings."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+      }
+    ]
+  },
+  {
+    "id": "cayenne-pepper",
+    "name": "Cayenne pepper, ground",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (1.8g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 318,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 56.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 17.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 27.2,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 2081,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E",
+        "amount": 29.8,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "A key aromatic base for stir fries and sautéed dishes."
+      }
+    ]
+  },
+  {
+    "id": "bay-leaves",
+    "name": "Bay leaves, dried",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "2 leaves (0.6g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 313,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 7.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 74.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 8.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 26.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 309,
+        "unit": "mcg"
+      },
+      {
+        "name": "Iron",
+        "amount": 43.0,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Adds warmth and depth to soups, stews, and broths."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      }
+    ]
+  },
+  {
+    "id": "fennel-seeds",
+    "name": "Fennel seeds, whole",
+    "category": "herbs and spices",
+    "per": "100g",
+    "householdServing": "1 tsp (2g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 345,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 15.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 52.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 14.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 39.8,
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "amount": 1196,
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "amount": 18.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A key aromatic in curries and one-pot dishes."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A warming spice used in baking and desserts."
+      }
+    ]
   }
 ]
