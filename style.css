@@ -146,6 +146,24 @@ a { color: inherit; text-decoration: none; }
 
 .suggestion small { display: block; color: var(--muted); margin-top: 2px; }
 
+.suggestion-empty {
+  padding: 14px 15px;
+  background: var(--sage-2);
+}
+
+.suggestion-empty strong {
+  display: block;
+  color: var(--green-950);
+  font-size: 13px;
+}
+
+.suggestion-empty span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 3px;
+}
+
 .main-nav {
   display: flex;
   align-items: center;
