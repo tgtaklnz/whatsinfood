@@ -5058,5 +5058,2178 @@
         "blurb": "A reliable choice for roasting or baking as a main."
       }
     ]
+  },
+  {
+    "id": "apricot",
+    "name": "Apricot, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "3 apricots (105g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 48,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 11.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 96,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 10,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "blackberry",
+    "name": "Blackberries, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (144g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 43,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 9.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 5.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 21,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 19.8,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "boysenberry",
+    "name": "Boysenberries, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (132g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 50,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 12.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 5.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 6,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 0.6,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "breadfruit",
+    "name": "Breadfruit, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup cubed (220g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 103,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 27.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.9,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 29,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 490,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A starchy, savoury addition to curries and one-pot dishes."
+      },
+      {
+        "category": "Stir Fries & Sautéed",
+        "image": "images/use-stir-fry.jpg",
+        "blurb": "Can be sliced and stir-fried as a starchy side."
+      },
+      {
+        "category": "Roasted & Baked",
+        "image": "images/use-roasted-baked.jpg",
+        "blurb": "Roasts or bakes to a soft, potato-like texture."
+      },
+      {
+        "category": "Boiled, Steamed & Poached",
+        "image": "images/use-boiled-steamed-poached.jpg",
+        "blurb": "Commonly boiled or steamed as a starchy side, similar to potato."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "Often sliced thin and fried into savoury chips."
+      }
+    ]
+  },
+  {
+    "id": "cantaloupe",
+    "name": "Cantaloupe, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup cubed (160g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 34,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 8.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 169,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 36.7,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "cherries",
+    "name": "Cherries, sweet, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup pitted (154g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 63,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 16.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.1,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 7,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 222,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut meat, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup shredded (80g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 354,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 3.3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 15.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 33.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 9.0,
+        "unit": "g"
+      },
+      {
+        "name": "Manganese",
+        "amount": 1.5,
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "amount": 0.4,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "Coconut milk adds richness to soups and stews."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Coconut milk forms the creamy base of many curries and one-pot dishes."
+      },
+      {
+        "category": "Rice & Grain Bowls",
+        "image": "images/use-rice-grain-bowls.jpg",
+        "blurb": "Coconut milk or flakes add richness to rice and grain bowls."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "crab-apple",
+    "name": "Crab apple, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "3 crab apples (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 76,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 19.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.7,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 8,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 194,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "cranberry",
+    "name": "Cranberries, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup whole (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 46,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 12.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 13.3,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin E",
+        "amount": 1.2,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or mashed into dips, spreads, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "currant",
+    "name": "Currants, red, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (112g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 56,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.8,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 41,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 275,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "date",
+    "name": "Dates, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "5 dates (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 277,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 75.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 6.7,
+        "unit": "g"
+      },
+      {
+        "name": "Potassium",
+        "amount": 696,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "amount": 0.2,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Adds sweetness and depth to fruit-based curries."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "dragon-fruit",
+    "name": "Dragon fruit (pitaya), raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup cubed (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 60,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 9,
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "amount": 18,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "durian",
+    "name": "Durian, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (243g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 147,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 27.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 5.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.8,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 19.7,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 436,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "elderberry",
+    "name": "Elderberries, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (145g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 73,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 18.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 7.0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 36,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 30,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "feijoa",
+    "name": "Feijoa, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "2 feijoas (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 55,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 6.4,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 33,
+        "unit": "mg"
+      },
+      {
+        "name": "Folate",
+        "amount": 23,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "fig",
+    "name": "Figs, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "2 figs (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 74,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 19.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.9,
+        "unit": "g"
+      },
+      {
+        "name": "Potassium",
+        "amount": 232,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 4.7,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or mashed into dips, spreads, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "gooseberry",
+    "name": "Gooseberries, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (150g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 44,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 10.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.3,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 27.7,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 15,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1/2 grapefruit (123g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 42,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 10.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 31.2,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 58,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (151g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 69,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 18.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 14.6,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 3.2,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "guava",
+    "name": "Guava, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (165g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 68,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 2.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 14.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 5.4,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 228,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 31,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon, raw, without peel",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 lemon (58g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 29,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.1,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 9.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.8,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 53,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 138,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Soups & Casseroles",
+        "image": "images/use-soups-casseroles.jpg",
+        "blurb": "A squeeze of lemon brightens soups, stews, and casseroles."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Adds bright acidity to balance rich curries and one-pot dishes."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Juiced or zested into dressings, dips, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "Often paired with salt or chilli as a tangy snack."
+      }
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "Lime, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 lime (67g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 30,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 10.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 2.8,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 29.1,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 102,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "A classic souring agent in Thai and other curries."
+      },
+      {
+        "category": "Grilled & Barbecued",
+        "image": "images/use-grilled-barbecued.jpg",
+        "blurb": "A classic marinade ingredient for grilled meats and vegetables."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Juiced or zested into dressings, dips, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "Often paired with salt or chilli as a tangy snack."
+      }
+    ]
+  },
+  {
+    "id": "passionfruit",
+    "name": "Passionfruit, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "2 passionfruit (36g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 97,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 2.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 23.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 10.4,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 64,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 30,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "peach",
+    "name": "Peach, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 medium peach (150g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 39,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 9.5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 6.6,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 16,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "pear",
+    "name": "Pear, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 medium pear (178g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 57,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 15.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.1,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 4.5,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 4.3,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "persimmon",
+    "name": "Persimmon, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 persimmon (168g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 70,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 18.6,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 3.6,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 81,
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 7.5,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "plum",
+    "name": "Plum, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "2 plums (132g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 46,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 11.4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.4,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 9.5,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 17,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1/2 pomegranate (100g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 83,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.7,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 18.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 1.2,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 10.2,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin K",
+        "amount": 16.4,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Salads",
+        "image": "images/use-salads.jpg",
+        "blurb": "Seeds add a juicy, tart crunch to savoury salads."
+      },
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or mashed into dips, spreads, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "quince",
+    "name": "Quince, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 quince (92g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 57,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.4,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 15.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.1,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.9,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 15,
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "amount": 197,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Curries & One-pot Meals",
+        "image": "images/use-curries.jpg",
+        "blurb": "Adds sweetness and depth to fruit-based curries."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Dips, Spreads & Sauces",
+        "image": "images/use-dips-spreads-sauces.jpg",
+        "blurb": "Blended or mashed into dips, spreads, and sauces."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "raspberry",
+    "name": "Raspberries, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 cup (123g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 52,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 1.2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 11.9,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.7,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 6.5,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 26.2,
+        "unit": "mg"
+      },
+      {
+        "name": "Manganese",
+        "amount": 0.7,
+        "unit": "mg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
+  },
+  {
+    "id": "tangerine",
+    "name": "Tangerine, raw",
+    "category": "fruit",
+    "per": "100g",
+    "householdServing": "1 tangerine (88g)",
+    "source": "USDA FoodData Central",
+    "verified": false,
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 53,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate",
+        "amount": 13.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "Fiber",
+        "amount": 1.8,
+        "unit": "g"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": 26.7,
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A",
+        "amount": 34,
+        "unit": "mcg"
+      }
+    ],
+    "waysToEnjoy": [
+      {
+        "category": "Fruit Salads",
+        "image": "images/use-fruit-salads.jpg",
+        "blurb": "Adds natural sweetness to fresh fruit salads."
+      },
+      {
+        "category": "Smoothies & Drinks",
+        "image": "images/use-smoothies.jpg",
+        "blurb": "A popular ingredient for fresh, blended smoothies."
+      },
+      {
+        "category": "Baking & Desserts",
+        "image": "images/use-baking-desserts.jpg",
+        "blurb": "A popular addition to cakes, muffins, and baked desserts."
+      },
+      {
+        "category": "Snacks & Small Bites",
+        "image": "images/use-snacks-small-bites.jpg",
+        "blurb": "A simple, satisfying snack eaten on its own."
+      }
+    ]
   }
 ]
